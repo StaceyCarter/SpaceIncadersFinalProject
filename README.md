@@ -1,4 +1,4 @@
-# SpaceIncaders Final Project for "How to code: Simple Data"
+# Space Invaders Final Project for "How to code: Simple Data"
 
 I completed the <a href="https://courses.edx.org/certificates/6cab91bc64474e0885eb4a72eb9c0b29">"How to code: simple data"</a> online course. For the final project, I created a space invaders game using racket, a teaching language based on lisp. Given lisp's lack of loops, I created the entire program using recursive functions.
 
