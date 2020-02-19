@@ -1,6 +1,6 @@
 # Space Invaders Final Project for "How to code: Simple Data"
 
-I completed the <a href="https://courses.edx.org/certificates/6cab91bc64474e0885eb4a72eb9c0b29">"How to code: simple data"</a> online course. For the final project, I created a space invaders game using racket, a teaching language based on lisp. Given lisp's lack of loops, I created the entire program using recursive functions.
+My first adventure in the functional programming world. I completed the <a href="https://courses.edx.org/certificates/6cab91bc64474e0885eb4a72eb9c0b29">"How to code: simple data"</a> online course. For the final project, I created a space invaders game using racket, a teaching language based on lisp. Given lisp's lack of loops, I created the entire program using recursive functions.
 
 The game runs by manipulating data. Different components are advanced according to their speeds and added or deleted from linked lists according to other events in the game (eg. collisions and key presses). Since racket lists are immutable, a new list was created each time with the addition or absence of components. This made it easy to test the logic of the game.
 
